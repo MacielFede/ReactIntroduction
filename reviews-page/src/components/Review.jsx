@@ -5,10 +5,10 @@ function Review(props){
     return (
         <div className='review-container'>
             <img className='review-img' src={require(`../img/testimonio-${props.image}.png`)} 
-                alt='Review picture' />
+                alt={`Picture of ${props.image}`} />
             <div className='text-container'>
-                <p className='name-review'>{props.name} en {props.country}</p>
-                <p className='work-position'>{props.position} en {props.company}</p>
+                <p className='name-review'><strong>{props.name}</strong> en {props.country}</p>
+                <p className='work-position'>{props.position} en <strong>{props.company}</strong></p>
                 <p className='review-text'>{props.review}</p>
             </div>
         </div>
