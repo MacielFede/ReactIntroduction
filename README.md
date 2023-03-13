@@ -9,6 +9,8 @@ The main thing I learned through this project was the creation of React componen
 
 ### Click counter
 
+This is an app that contains 2 buttons and displays a click count. The count starts at 0 and goes up as you click the button that reeds 'click'. I took my first steeps into useState() with this project.
+
 ### Calculator
 
 ### Notes app
