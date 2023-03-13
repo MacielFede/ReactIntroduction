@@ -1,9 +1,0 @@
-{
-  "short_name": "Click counter",
-  "name": "freeCodeCamp click counter",
-  "icons": [],
-  "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
-}
