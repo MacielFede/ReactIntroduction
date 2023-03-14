@@ -31,7 +31,7 @@ img {
   border: 5px solid white;
 }
 
-.row {
+.rows {
   margin: 4px;
   display: flex;
   align-items: center;
