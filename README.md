@@ -13,6 +13,8 @@ This is an app that contains 2 buttons and displays a click count. The count sta
 
 ### Calculator
 
+This is a calculator app with the main 4 operations (+, -, /, \*) and its combinations. I tried to contemplate all the border cases but I don't guarantee an execution without errors.
+
 ### Notes app
 
 ## Acknowledgements
