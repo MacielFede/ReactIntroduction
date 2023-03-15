@@ -17,6 +17,8 @@ This is a calculator app with the main 4 operations (+, -, /, \*) and its combin
 
 ### Notes app
 
+This is a notes app, were you can write, complete and delete notes with no character limit. It is the most complex project I build so far.
+
 ## Acknowledgements
 
 - [freeCodeCamp video course](https://www.youtube.com/watch?v=6Jfk8ic3KVk&t=9256s)
