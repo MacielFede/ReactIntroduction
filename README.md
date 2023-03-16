@@ -19,6 +19,10 @@ This is a calculator app with the main 4 operations (+, -, /, \*) and its combin
 
 This is a notes app, were you can write, complete and delete notes with no character limit. It is the most complex project I build so far.
 
+### Reviews page and Click counter with classes
+
+This two projects where made to introduce myself into class components and how to work with them.
+
 ## Acknowledgements
 
 - [freeCodeCamp video course](https://www.youtube.com/watch?v=6Jfk8ic3KVk&t=9256s)
