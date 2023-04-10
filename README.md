@@ -26,6 +26,7 @@ This two projects where made to introduce myself into class components and how t
 ## Acknowledgements
 
 - [freeCodeCamp video course](https://www.youtube.com/watch?v=6Jfk8ic3KVk&t=9256s)
+- [Midudev videos course](https://www.youtube.com/watch?v=7iobxzd_2wY&list=WL&index=1&t=2740s)
 
 # Feedback
 
