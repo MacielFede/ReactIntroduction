@@ -1,12 +1,7 @@
 import "./TwFollowCard.css";
 import { useState } from "react";
 
-export const TwFollowCard = ({
-  formatUserName,
-  userat,
-  username,
-  initialIsFollowing,
-}) => {
+export const TwFollowCard = ({ formatUserName, userat, username, initialIsFollowing }) => {
   const [isFollowing, setIsFollowing] = useState(initialIsFollowing);
 
   const buttonClassName = isFollowing
@@ -27,16 +22,12 @@ export const TwFollowCard = ({
         />
         <div className="tw-follow-card-info">
           <strong>{username}</strong>
-          <span className="tw-follow-card-info-username">
-            {formatUserName(userat)}
-          </span>
+          <span className="tw-follow-card-info-username">{formatUserName(userat)}</span>
         </div>
       </header>
       <aside>
         <button className={buttonClassName} onClick={handleClick}>
-          <span className="tw-follow-card-text">
-            {isFollowing ? "Following" : "Follow"}
-          </span>
+          <span className="tw-follow-card-text">{isFollowing ? "Following" : "Follow"}</span>
           <span className="tw-follow-card-unfollow">Unfollow</span>
         </button>
       </aside>
